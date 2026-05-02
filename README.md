@@ -16,7 +16,7 @@ Desenvolvi um pipeline de dados automatizado em **Python** que:
 * **Visualização:** Power BI
 
 ## Visualização
-[Dashboard PERI](dashboard.png)
+[Dashboard PERI](Dashboard.png)
 
 ## Como executar
 1. Clone o repositório.
